@@ -79,6 +79,15 @@ const employeesData = [
     salary: '110000',
     date: '2020-01-15',
   },
+
+  {
+    id: 10,
+    firstName: 'Joicy',
+    lastName: 'George',
+    email: 'joicy@example.com',
+    salary: '120000',
+    date: '2022-01-15',
+  },
 ];
 
 export { employeesData };
